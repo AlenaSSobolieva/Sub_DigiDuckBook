@@ -8,6 +8,7 @@ from DigiDuckBook.note_book.notes_handlers import main_notes
 from DigiDuckBook.goose_game.game import main_game
 from DigiDuckBook.utils.tool_kit import RainbowLexer, get_completer
 from DigiDuckBook.utils.cls_clear import clear
+from DigiDuckBook.abstract.abc_book import AbstractData
 
 
 
