@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sub-digiduckbook"
+version = "0.1.0"
+description = "Conviniet tool to manage your contacts"
+authors = ["Alena Sobolieva <soboleva13as@gmail.com>"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

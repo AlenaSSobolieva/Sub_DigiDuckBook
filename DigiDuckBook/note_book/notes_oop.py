@@ -1,7 +1,7 @@
 from collections import UserDict
 import typing as t
 
-from DigiDuckBook.abstract.abc_book import AbstractData
+from abstract.abc_book import AbstractData
 
 class FieldNotes:
     """
