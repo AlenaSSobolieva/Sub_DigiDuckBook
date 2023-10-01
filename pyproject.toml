@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "sub-digiduckbook"
+name = "web1-1-homeassignment-2"
 version = "0.1.0"
-description = "Conviniet tool to manage your contacts"
+description = ""
 authors = ["Alena Sobolieva <soboleva13as@gmail.com>"]
-license = "MIT License"
 readme = "README.md"
+packages = [{include = "web1"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "3.11-slim"
 
 
 [build-system]

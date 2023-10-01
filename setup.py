@@ -12,9 +12,9 @@ setup(
         "DigiDuckBook.utils",
         ],
     description='console bot for contacts book, notes and folder sorting by categories',
-    url='https://github.com/SergiyBagmet/DigiDuckBook',
-    author='Sergey Bagmet',
-    author_email='sergey94bagmet@gmail.com',
+    url='https://github.com/AlenaSSobolieva/WEB1.1.HomeAssignment_2',
+    author='AlenaSSobolieva',
+    author_email='soboleva13as@gmail.com',
     license='MIT',
     readme = "README.md",
     classifiers = [
