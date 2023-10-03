@@ -24,4 +24,4 @@ EXPOSE 3000
 
 
 # Run your Python application
-CMD ["python", "app.py"]
+CMD ["python", "DigiDuckBook/main_bot.py"]
